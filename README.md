@@ -1,1 +1,1 @@
-# RESTAssuresAPIAuatomation
+# RESTAssuredAPIAutomation
